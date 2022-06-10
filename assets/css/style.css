@@ -122,12 +122,14 @@ h1, h2 {
     padding-top: 30px;
     width: 33%;
     float: left;
+    margin: 40px;
 }
 
 #right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
+    margin: 40px;
 }
 
 #center-about {
